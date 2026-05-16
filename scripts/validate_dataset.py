@@ -5,7 +5,11 @@ import json
 from pathlib import Path
 
 REQUIRED_FIELDS = {"id", "text", "labels", "language", "split"}
-ALLOWED_LABELS = {"abusive", "slur", "derogatory", "sexual", "slang", "neutral"}
+ALLOWED_LABELS = {
+    "abusive", "slur", "derogatory", "sexual", "slang", "neutral",
+    "profanity", "sexual_slang", "hate_speech", "harassment", 
+    "threat", "spam", "self_harm", "toxic", "severe_toxicity"
+}
 
 
 def validate_line(obj, line_no):
