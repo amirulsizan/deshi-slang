@@ -7,26 +7,38 @@ fields:
     type: string
     description: The Bengali text (UTF-8)
     required: true
+  - name: romanized
+    type: string
+    description: Romanized (Latin-script) transliteration of text
+    required: false
   - name: labels
     type: array[string]
-    description: One or more labels from the label taxonomy
+    description: One or more labels from the label taxonomy (15 total labels)
     required: true
+  - name: severity_score
+    type: integer (1-5)
+    description: Severity level (1=mild, 5=extreme); only for harmful content
+    required: false
   - name: language
     type: string
     description: ISO language code, e.g. 'bn'
     required: true
+  - name: split
+    type: string
+    description: Data split (train/validation/test)
+    required: true
+  - name: is_obfuscated
+    type: boolean
+    description: True if text contains intentional misspellings, spacing, or character substitutions
+    required: false
   - name: source
     type: string
-    description: (optional) source or provenance metadata
+    description: Origin or provenance metadata
     required: false
   - name: annotator_id
     type: string
     description: (optional) annotator identifier
     required: false
-  - name: split
-    type: string
-    description: Data split (train/validation/test)
-    required: true
 
 label_taxonomy:
   # Original labels (6)
