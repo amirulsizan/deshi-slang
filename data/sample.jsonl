@@ -1,0 +1,6 @@
+{"id": "example-0001", "text": "তুমি আজ যেন অনেক বদমেজাজি।", "labels": ["neutral"], "language": "bn", "source": "synthetic", "annotator_id": "a0", "split": "train"}
+{"id": "example-0002", "text": "তুই বোকা!", "labels": ["abusive"], "language": "bn", "source": "synthetic", "annotator_id": "a1", "split": "train"}
+{"id": "example-0003", "text": "ওই লোকটা খুব ভদ্র নয়, বকছাঘর", "labels": ["derogatory"], "language": "bn", "source": "synthetic", "annotator_id": "a2", "split": "train"}
+{"id": "example-0004", "text": "এই কথাটা প্রচলিত বাংলা স্ল্যাং।", "labels": ["slang"], "language": "bn", "source": "synthetic", "annotator_id": "a0", "split": "validation"}
+{"id": "example-0005", "text": "তুমি মিথ্যে বলছো, ভণ্ড!", "labels": ["abusive","derogatory"], "language": "bn", "source": "synthetic", "annotator_id": "a3", "split": "train"}
+{"id": "example-0006", "text": "ভীতিকর বা অনুকূল নয় এমন ভাষা", "labels": ["neutral"], "language": "bn", "source": "synthetic", "annotator_id": "a0", "split": "test"}
