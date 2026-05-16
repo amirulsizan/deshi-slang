@@ -1,0 +1,60 @@
+{"id": "p-0001", "text": "চোদা", "romanized": "choda", "labels": ["profanity","sexual_slang"], "severity_score": 3, "is_obfuscated": false, "source": "user-provided"}
+{"id": "p-0002", "text": "চুদি", "romanized": "chudi", "labels": ["profanity","sexual_slang"], "severity_score": 3, "is_obfuscated": false, "source": "user-provided"}
+{"id": "p-0003", "text": "চুদবি", "romanized": "chudbi", "labels": ["profanity","sexual_slang"], "severity_score": 3, "is_obfuscated": false, "source": "user-provided"}
+{"id": "p-0004", "text": "চুদবো", "romanized": "chudbo", "labels": ["profanity","sexual_slang"], "severity_score": 3, "is_obfuscated": false, "source": "user-provided"}
+{"id": "p-0005", "text": "চুদে", "romanized": "chod", "labels": ["profanity","sexual_slang"], "severity_score": 3, "is_obfuscated": false, "source": "user-provided"}
+{"id": "p-0006", "text": "চুদাচুদি", "romanized": "chudachudi", "labels": ["profanity","sexual_slang"], "severity_score": 3, "is_obfuscated": false, "source": "user-provided"}
+{"id": "p-0007", "text": "চুদানী", "romanized": "chudani", "labels": ["profanity","sexual_slang"], "severity_score": 3, "is_obfuscated": false, "source": "user-provided"}
+{"id": "p-0008", "text": "চোদন", "romanized": "chodon", "labels": ["profanity","sexual_slang"], "severity_score": 3, "is_obfuscated": false, "source": "user-provided"}
+{"id": "p-0009", "text": "চোদনা", "romanized": "chodna", "labels": ["profanity","sexual_slang"], "severity_score": 3, "is_obfuscated": false, "source": "user-provided"}
+{"id": "p-0010", "text": "চুদির ভাই", "romanized": "chudir vai", "labels": ["profanity"], "severity_score": 2, "is_obfuscated": false, "source": "user-provided"}
+{"id": "p-0011", "text": "চুদের বাচ্চা", "romanized": "chudir baccha", "labels": ["profanity"], "severity_score": 2, "is_obfuscated": false, "source": "user-provided"}
+{"id": "p-0012", "text": "মাদারচোদ", "romanized": "madarchod", "labels": ["profanity"], "severity_score": 4, "is_obfuscated": false, "source": "user-provided"}
+{"id": "p-0013", "text": "মাদারচোদা", "romanized": "madarchoda", "labels": ["profanity"], "severity_score": 4, "is_obfuscated": false, "source": "user-provided"}
+{"id": "p-0014", "text": "মাদারচুদ", "romanized": "madarchud", "labels": ["profanity"], "severity_score": 4, "is_obfuscated": false, "source": "user-provided"}
+{"id": "p-0015", "text": "বাঞ্চোদ", "romanized": "banchod", "labels": ["profanity"], "severity_score": 3, "is_obfuscated": false, "source": "user-provided"}
+{"id": "p-0016", "text": "বেনচোদ", "romanized": "benchod", "labels": ["profanity"], "severity_score": 3, "is_obfuscated": false, "source": "user-provided"}
+{"id": "p-0017", "text": "বেহেনচোদ", "romanized": "behenchod", "labels": ["profanity"], "severity_score": 4, "is_obfuscated": false, "source": "user-provided"}
+{"id": "p-0018", "text": "খানকির পোলা", "romanized": "khankir pola", "labels": ["profanity"], "severity_score": 3, "is_obfuscated": false, "source": "user-provided"}
+{"id": "p-0019", "text": "খানকি", "romanized": "khanki", "labels": ["profanity"], "severity_score": 2, "is_obfuscated": false, "source": "user-provided"}
+{"id": "p-0020", "text": "বেশ্যা", "romanized": "beshya", "labels": ["profanity"], "severity_score": 2, "is_obfuscated": false, "source": "user-provided"}
+{"id": "p-0021", "text": "মাগী", "romanized": "magi", "labels": ["profanity","hate_speech"], "severity_score": 3, "is_obfuscated": false, "source": "user-provided"}
+{"id": "p-0022", "text": "রেন্ডি", "romanized": "rendi", "labels": ["profanity"], "severity_score": 2, "is_obfuscated": false, "source": "user-provided"}
+{"id": "p-0023", "text": "হারামজাদা", "romanized": "haramjada", "labels": ["profanity"], "severity_score": 3, "is_obfuscated": false, "source": "user-provided"}
+{"id": "p-0024", "text": "হারামি", "romanized": "harami", "labels": ["profanity"], "severity_score": 2, "is_obfuscated": false, "source": "user-provided"}
+{"id": "p-0025", "text": "বেজন্মা", "romanized": "bejonmo", "labels": ["profanity"], "severity_score": 2, "is_obfuscated": false, "source": "user-provided"}
+{"id": "p-0026", "text": "কুত্তার বাচ্চা", "romanized": "kuttar baccha", "labels": ["profanity"], "severity_score": 3, "is_obfuscated": false, "source": "user-provided"}
+{"id": "p-0027", "text": "কুত্তাচোদা", "romanized": "kuttachoda", "labels": ["profanity","sexual_slang"], "severity_score": 3, "is_obfuscated": false, "source": "user-provided"}
+{"id": "p-0028", "text": "শুয়োরের বাচ্চা", "romanized": "shuorer baccha", "labels": ["profanity"], "severity_score": 3, "is_obfuscated": false, "source": "user-provided"}
+{"id": "p-0029", "text": "বালের", "romanized": "baler", "labels": ["profanity"], "severity_score": 2, "is_obfuscated": false, "source": "user-provided"}
+{"id": "p-0030", "text": "বাল", "romanized": "bal", "labels": ["profanity"], "severity_score": 2, "is_obfuscated": false, "source": "user-provided"}
+{"id": "p-0031", "text": "ল্যাওড়া", "romanized": "lawra", "labels": ["profanity"], "severity_score": 2, "is_obfuscated": false, "source": "user-provided"}
+{"id": "p-0032", "text": "লিউড়া", "romanized": "liura", "labels": ["profanity"], "severity_score": 2, "is_obfuscated": false, "source": "user-provided"}
+{"id": "p-0033", "text": "লিঙ্গচোষা", "romanized": "ling chosha", "labels": ["profanity","sexual_slang"], "severity_score": 4, "is_obfuscated": false, "source": "user-provided"}
+{"id": "p-0034", "text": "গু খা", "romanized": "gu kha", "labels": ["profanity","sexual_slang"], "severity_score": 3, "is_obfuscated": false, "source": "user-provided"}
+{"id": "p-0035", "text": "গুয়ের পোলা", "romanized": "guyer pola", "labels": ["profanity"], "severity_score": 3, "is_obfuscated": false, "source": "user-provided"}
+{"id": "p-0036", "text": "গু-মুত", "romanized": "gu-mut", "labels": ["profanity"], "severity_score": 2, "is_obfuscated": false, "source": "user-provided"}
+{"id": "p-0037", "text": "গাণ্ডু", "romanized": "gandu", "labels": ["profanity"], "severity_score": 3, "is_obfuscated": false, "source": "user-provided"}
+{"id": "p-0038", "text": "গাধা চোদা", "romanized": "gadha choda", "labels": ["profanity","sexual_slang"], "severity_score": 3, "is_obfuscated": false, "source": "user-provided"}
+{"id": "p-0039", "text": "আবাল", "romanized": "abal", "labels": ["profanity"], "severity_score": 1, "is_obfuscated": false, "source": "user-provided"}
+{"id": "p-0040", "text": "ছাগল", "romanized": "chagol", "labels": ["profanity"], "severity_score": 1, "is_obfuscated": false, "source": "user-provided"}
+{"id": "p-0041", "text": "বলদ", "romanized": "balod", "labels": ["profanity"], "severity_score": 1, "is_obfuscated": false, "source": "user-provided"}
+{"id": "p-0042", "text": "ভোদাই", "romanized": "vodai", "labels": ["profanity"], "severity_score": 2, "is_obfuscated": false, "source": "user-provided"}
+{"id": "p-0043", "text": "ভোদা", "romanized": "voda", "labels": ["profanity"], "severity_score": 2, "is_obfuscated": false, "source": "user-provided"}
+{"id": "p-0044", "text": "নষ্ট মেয়ে", "romanized": "nosto meye", "labels": ["profanity","harassment"], "severity_score": 2, "is_obfuscated": false, "source": "user-provided"}
+{"id": "p-0045", "text": "চরিত্রহীন", "romanized": "charitrahin", "labels": ["profanity","harassment"], "severity_score": 2, "is_obfuscated": false, "source": "user-provided"}
+{"id": "p-0046", "text": "মালাউন", "romanized": "malauun", "labels": ["hate_speech"], "severity_score": 4, "is_obfuscated": false, "source": "user-provided"}
+{"id": "p-0047", "text": "কাফের", "romanized": "kafer", "labels": ["hate_speech"], "severity_score": 4, "is_obfuscated": false, "source": "user-provided"}
+{"id": "p-0048", "text": "হিজড়া", "romanized": "hijra", "labels": ["hate_speech"], "severity_score": 4, "is_obfuscated": false, "source": "user-provided"}
+{"id": "p-0049", "text": "গে", "romanized": "gay", "labels": ["hate_speech"], "severity_score": 3, "is_obfuscated": false, "source": "user-provided"}
+{"id": "p-0050", "text": "বাঙাল", "romanized": "bangal", "labels": ["hate_speech"], "severity_score": 2, "is_obfuscated": false, "source": "user-provided"}
+{"id": "p-0051", "text": "মেরে ফেলবো", "romanized": "mere felbo", "labels": ["threat"], "severity_score": 5, "is_obfuscated": false, "source": "user-provided"}
+{"id": "p-0052", "text": "কেটে ফেলবো", "romanized": "kete felbo", "labels": ["threat"], "severity_score": 5, "is_obfuscated": false, "source": "user-provided"}
+{"id": "p-0053", "text": "তুই একটা আবর্জনা", "romanized": "tui ekta aborjona", "labels": ["harassment"], "severity_score": 2, "is_obfuscated": false, "source": "user-provided"}
+{"id": "p-0054", "text": "তোর জন্মই ভুল", "romanized": "tor jonmoi vul", "labels": ["harassment"], "severity_score": 2, "is_obfuscated": false, "source": "user-provided"}
+{"id": "p-0055", "text": "ইনবক্স করুন", "romanized": "inbox korun", "labels": ["spam"], "severity_score": 1, "is_obfuscated": false, "source": "user-provided"}
+{"id": "p-0056", "text": "বিকাশ নাম্বার দিন", "romanized": "bkash number din", "labels": ["spam"], "severity_score": 1, "is_obfuscated": false, "source": "user-provided"}
+{"id": "p-0057", "text": "OTP দিন", "romanized": "OTP din", "labels": ["spam"], "severity_score": 1, "is_obfuscated": false, "source": "user-provided"}
+{"id": "p-0058", "text": "মাদারচ*দ", "romanized": "madarch*d", "labels": ["profanity"], "severity_score": 4, "is_obfuscated": true, "source": "user-provided"}
+{"id": "p-0059", "text": "চ*দা", "romanized": "ch*da", "labels": ["profanity"], "severity_score": 3, "is_obfuscated": true, "source": "user-provided"}
+{"id": "p-0060", "text": "m@darchod", "romanized": "m@darchod", "labels": ["profanity"], "severity_score": 4, "is_obfuscated": true, "source": "user-provided"}

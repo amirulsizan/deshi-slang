@@ -1,0 +1,10 @@
+label,meaning
+profanity,General abusive language
+sexual_slang,Sexual profanity and explicit sexual insults
+hate_speech,Identity-targeted hate or slurs
+harassment,Bullying or personal attack language
+threat,Violent threat or intent to harm
+spam,Spam or scam trigger phrases
+self_harm,Encouragement of self-harm or suicide
+toxic,General toxicity (insults, rude language)
+severe_toxicity,Highly abusive or extreme language
