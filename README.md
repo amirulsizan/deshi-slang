@@ -1,4 +1,4 @@
-# deshi-slang
+# Deshi Slang
 
 Open-source Bengali slang and harmful language dataset for AI moderation, content filtering, and social media safety systems.
 
