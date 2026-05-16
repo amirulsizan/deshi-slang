@@ -1,4 +1,10 @@
 label,meaning
+abusive,General insults and abusive expressions
+slur,Identity-targeted derogatory terms
+derogatory,Non-identity-based denigration
+sexual,Sexual content or explicit language
+slang,Colloquial/slang that may be offensive in context
+neutral,Non-harmful content
 profanity,General abusive language
 sexual_slang,Sexual profanity and explicit sexual insults
 hate_speech,Identity-targeted hate or slurs

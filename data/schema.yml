@@ -29,9 +29,20 @@ fields:
     required: true
 
 label_taxonomy:
+  # Original labels (6)
   - abusive
   - slur
   - derogatory
   - sexual
   - slang
   - neutral
+  # Extended moderation labels (9)
+  - profanity
+  - sexual_slang
+  - hate_speech
+  - harassment
+  - threat
+  - spam
+  - self_harm
+  - toxic
+  - severe_toxicity

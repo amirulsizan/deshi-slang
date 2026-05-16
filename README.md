@@ -16,11 +16,16 @@ See the dataset card: [DATASET_CARD.md](DATASET_CARD.md)
 
 Quick start
 
-Install requirements and run the dataset validator on the sample file:
+Install requirements and run the dataset validator:
 
 ```bash
 python -m pip install -r requirements.txt
 python scripts/validate_dataset.py data/sample.jsonl
+python scripts/validate_dataset.py data/profanity_dataset.jsonl
 ```
 
-If you'd like, I can initialize a git repo and make an initial commit here.
+**Dataset files:**
+- `data/sample.jsonl` — small example dataset (6 entries) for quick testing
+- `data/profanity_dataset.jsonl` — enriched Bengali profanity dataset (166 entries)
+- `data/labels_map.csv` — human-readable label taxonomy (15 labels)
+- `data/schema.yml` — formal schema definition

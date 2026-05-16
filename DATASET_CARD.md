@@ -18,13 +18,26 @@ Dataset structure:
   - `annotator_id` (string, optional)
   - `split` (string): `train`, `validation`, or `test`
 
-Label taxonomy (initial):
+Label taxonomy (15 labels total):
+
+**Original labels (6):**
 - `abusive`: general insults and abusive expressions
 - `slur`: identity-targeted derogatory terms
 - `derogatory`: non-identity-based denigration
 - `sexual`: sexual content or explicit language
 - `slang`: colloquial/slang that may be offensive in context
 - `neutral`: non-harmful content
+
+**Extended moderation labels (9):**
+- `profanity`: general abusive language
+- `sexual_slang`: sexual profanity and explicit sexual insults
+- `hate_speech`: identity-targeted hate or slurs
+- `harassment`: bullying or personal attack language
+- `threat`: violent threat or intent to harm
+- `spam`: spam or scam trigger phrases
+- `self_harm`: encouragement of self-harm or suicide
+- `toxic`: general toxicity (insults, rude language)
+- `severe_toxicity`: highly abusive or extreme language
 
 Licensing:
 - Code and tooling: MIT License (see `LICENSE`).

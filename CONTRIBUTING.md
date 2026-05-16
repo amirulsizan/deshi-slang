@@ -10,8 +10,10 @@ How to contribute
 4. Open a pull request. Describe data provenance and annotation process.
 
 Annotation guidelines (summary):
-- Use the taxonomy in `DATASET_CARD.md`.
-- Prefer conservative labeling: if unsure between `slang` and `abusive`, add both labels and add an explanation in `source` or PR description.
+- Use the taxonomy in `DATASET_CARD.md` (15 labels total: 6 original + 9 extended moderation labels).
+- Prefer conservative labeling: if unsure between multiple labels, add both/all applicable labels and add an explanation in `source` or PR description.
+- Severity scoring: assign `severity_score` 1–5 based on content severity (1=mild, 5=extreme).
+- Obfuscation detection: set `is_obfuscated: true` for intentionally misspelled, spaced, or character-substituted variants.
 - Do not add personally identifiable information (PII) or private data.
 - Avoid collecting content that promotes violence or glorifies hate — contact maintainers for edge cases.
 
